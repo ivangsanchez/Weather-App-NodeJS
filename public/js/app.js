@@ -1,4 +1,3 @@
-console.log('Client side javascript file is loaded!')
 
 //Select the DOM elements to set information
 const weatherForm = document.querySelector('form')
